@@ -79,10 +79,15 @@ end
 endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
+
+
+
 ![Screenshot 2024-04-28 211209](https://github.com/keziahhhf/JKFLIPFLOP-USING-IF-ELSE/assets/155235704/deb9ea3d-5b3c-438f-9f86-55a288696b6a)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
+
 ![Screenshot 2024-04-28 211323](https://github.com/keziahhhf/JKFLIPFLOP-USING-IF-ELSE/assets/155235704/e872e0f9-b75b-4702-ba94-004af4c7fa0f)
 
 
